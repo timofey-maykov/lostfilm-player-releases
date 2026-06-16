@@ -1,6 +1,6 @@
 {
-  "versionCode": 10001,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/timofey-maykov/lostfilm-player-releases/releases/download/v1.0.1/app-release.apk",
-  "notes": "Релиз 1.0.1"
+  "versionCode": 10002,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/timofey-maykov/lostfilm-player-releases/releases/download/v1.0.2/app-release.apk",
+  "notes": "Сборка APK с armeabi-v7a для 32-битных Android TV-приставок."
 }
